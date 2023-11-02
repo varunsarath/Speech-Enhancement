@@ -1,5 +1,5 @@
 # Speech-Enhancement
-Spech Enhancement 
+
 In this Git Repo, we include the matlab files for all the four methods, and the associated functions which are called to execute them. We also include the individual matlab files for each method which can be run separately-
 The files to run the methods are-
 1. Method 1(Energy Thresholding)- Method 1.1- Energy Thresholding.m
